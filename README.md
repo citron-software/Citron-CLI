@@ -1,4 +1,4 @@
-# CitronOS-CLI
+# Citron-CLI
 
 <img width="1024" height="1024" alt="citron_cli" src="https://github.com/user-attachments/assets/985f75bd-be28-487f-915d-943a2bced764" />
 
